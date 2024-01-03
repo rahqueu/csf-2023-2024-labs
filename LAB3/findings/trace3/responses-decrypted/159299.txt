@@ -1,0 +1,10 @@
+Desktop
+Documents
+Downloads
+miniconda3
+Music
+Pictures
+Public
+snap
+Templates
+Videos

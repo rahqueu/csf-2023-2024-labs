@@ -1,0 +1,3 @@
+diary.txt
+dimensions.jpeg
+pws.txt

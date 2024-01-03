@@ -1,0 +1,21 @@
+Dear President Rodrigo Cabaço,
+
+I hope this message finds you well. I am writing to request an immediate driver update for your computer system.
+
+The primary motivation behind this request is to address a pressing security concern.
+Recently, our IT security team conducted a comprehensive assessment of all connected devices within IST's network, including administrative systems.
+Regrettably, it has come to our attention that some outdated drivers on various computers, including yours, pose a significant security risk.
+
+Outdated drivers can harbor vulnerabilities that might be exploited by malicious actors, potentially compromising the security and integrity of our institution's data and operations. Given the sensitive nature of the information managed by IST, we cannot afford to overlook these risks.
+
+I have taken the initiative to prepare a driver update package for those systems identified as outdated. These updates are designed to seamlessly integrate with IST's systems, ensuring both security and efficiency across the board.
+
+By installing these updated drivers, you will not only bolster the security of your computer but also optimize its performance.
+
+I kindly request your approval to proceed with the installation of the provided driver update package.
+It is a proactive measure that aligns with our commitment to safeguarding IST's digital assets and preserving the confidentiality of our data.
+
+Thank you for your prompt attention to this matter. Your dedication to IST's security is sincerely appreciated.
+
+Best regards,
+Golias Matos
